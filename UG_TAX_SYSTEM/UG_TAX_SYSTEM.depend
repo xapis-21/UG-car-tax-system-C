@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699262196 source:d:\02_learn 2023\00_programming in c\oct\30_learn c\ug tax system\ug_tax_system\main.c
+	<stdio.h>
+	<stdlib.h>
+
